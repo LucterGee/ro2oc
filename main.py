@@ -18,10 +18,7 @@ thread_max_num = threading.Semaphore(32)
 
 check_node_url_str = "https://{}/sub?target=clash&url={}&insert=false"
 check_url_list = [
-    "api.dler.io",
-    "sub.xeton.dev",
-    "sub.id9.cc",
-    "sub.maoxiongnet.com"
+    "sub.xeton.dev"
 ]
 
 SUB_KEYWORDS = [
