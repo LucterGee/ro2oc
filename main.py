@@ -48,7 +48,7 @@ def gen_output_filename():
     now = datetime.now()
     year = now.strftime("%Y")
     month = now.strftime("%m")
-    ts = now.strftime("%Y-%m-%d_%H-%M-%S")
+    ts = now.strftime("%Y-%m-%d")
     return os.path.join("sub", year, month, f"{ts}.txt")
 
 # ================== 配置读取 ==================
