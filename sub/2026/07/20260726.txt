@@ -105,6 +105,7 @@ https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b4
 https://mojie.app/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
 https://mojie.app/api/v1/client/subscribe?token=954689f4edf6140a66ba50ccbf28dfd9
 https://mpimg.cn/down.php/df496c9309b121632a0869d8d282a8b2.yaml
+https://ninjasub.com/link/nAqdaBJ1DAkWJrXq?clash=1
 https://nodebuf.com/files/public/cmrmqtp7l3khgpi5wkes924hg/download
 https://nodebuf.com/files/public/cmrmqtpa33khlpi5wy2n9hbs2/download
 https://nodebuf.com/files/public/cmrngjryh3vstpi5wjweymixb/download
